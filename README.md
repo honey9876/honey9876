@@ -69,8 +69,6 @@
 | 📧 Email Application | A feature-rich email management app for sending, receiving, and organizing emails with real-time UI and optimized APIs. | React.js, Redux Toolkit, Axios, Tailwind CSS, React Router, Vite, React-Hot-Toast |
 | 📌 Booking Application | Secure MERN-stack booking system for services and schedules with JWT auth and responsive design. | Node.js, Express.js, React.js, MongoDB, Material-UI, JWT, REST API ||
 
-*(Update with your GitHub repos as they go live! 🚀)*
-
 <h3 align="left">Experience & Education:</h3>
 <ul>
   <li><strong>Co-Founder, Throne8</strong> (Feb 2025 – Present) | Leading AI & blockchain innovation in professional networking from Bhopal, India. (11 months strong – Watch for 2026 disruptions!)</li>
@@ -95,4 +93,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=honey9876&show_icons=true&locale=en&layout=compact" alt="honey9876" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=honey9876&show_icons=true&locale=en" alt="honey9876" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honey9876&" alt="honey9876" /></p>
+
 

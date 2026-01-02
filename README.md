@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Honey Sharma</h1>
+<h1 align="center">
+  <img src="https://tse4.mm.bing.net/th/id/OIP.eRRocj-PCaq2XxHOo8DhIAHaHa?pid=Api&P=0&h=180" alt="Throne8 Logo" width="100" height="100" style="border-radius: 50%;"/>
+  Hi 👋, I'm Honey Sharma
+</h1>
 <h3 align="center">Co-Founder @ Throne8 | Building India's First AI-Powered Professional Networking Platform | Revolutionizing Careers & the Future of Work</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,21 +10,23 @@
 </p>
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1C7zHe96yw5km0LsVojZoPeFDagTXquiS/view?usp=drivesdk)
-- 🌐 Check out my company: [Throne8](https://www.linkedin.com/company/thronet-technology-private-limited)
+- 🌐 Company Website: [Throne8](https://www.throne8.com/)
+- 🔗 LinkedIn: [Honey Sharma](https://www.linkedin.com/in/honey-sharma-228451249)
 - 📧 Newsletter: [TechSparks by Throne8](https://www.linkedin.com/newsletters/techsparks-throne8-7123456789012345678)
-- ⚡ Fun fact: **Building secure, scalable AI-driven networks one connection at a time – open to collabs on DevOps, cloud, and open-source magic! 🚀**
+- ⚡ Fun fact: **Building secure, scalable AI-driven networks one connection at a time – open to collabs on DevOps, cloud, and open-source magic! 🚀 (Bhopal-based innovator)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/honey-sharma-228451249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="honey-sharma-228451249" height="30" width="40" /></a>
   <a href="https://fb.com/honey%20sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="honey sharma" height="30" width="40" /></a>
   <a href="https://instagram.com/honey__sharma__02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honey__sharma__02" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/honey0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honey0126" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/honey0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honey0126" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  Co-Founder @ <strong>Throne8</strong> – Pioneering India's first AI-powered professional networking platform. We're bridging education, careers, and entrepreneurship with secure, scalable tech infused with AI and blockchain. Passionate about innovation, DevOps, cloud infrastructure, and open-source. Let's connect on building the future of work! 🌟
+  Co-Founder @ <strong>Throne8</strong> – Pioneering India's first AI-powered professional networking platform. We're bridging education, careers, and entrepreneurship with secure, scalable tech infused with AI and blockchain. Passionate about innovation, DevOps, cloud infrastructure, and open-source. Let's connect on building the future of work! 🌟<br>
+  <em>📍 Based in Bhopal, Madhya Pradesh, India | Founded 2025 | 11-50 team members | Empowering learners, pros, and startups globally.</em>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,7 +55,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <!-- AI & DevOps additions for 2026 -->
+  <!-- AI & DevOps additions -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetesio/kubernetesio-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -59,19 +64,28 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|--------|
-| [📧 Email Application](https://github.com/honey9876/email-app) | A feature-rich email management app for sending, receiving, and organizing emails with real-time UI and optimized APIs. | React.js, Redux Toolkit, Axios, Tailwind CSS, React Router, Vite, React-Hot-Toast | [Repo](https://github.com/honey9876/email-app) ⭐ |
-| [📌 Booking Application](https://github.com/honey9876/booking-app) | Secure MERN-stack booking system for services and schedules with JWT auth and responsive design. | Node.js, Express.js, React.js, MongoDB, Material-UI, JWT, REST API | [Repo](https://github.com/honey9876/booking-app) ⭐ |
-| [🔗 Throne8 Platform](https://github.com/honey9876/throne8) | Core repo for AI-powered professional networking – AI-driven connections, blockchain trust, and scalable infrastructure. (Ongoing) | Next.js, Node.js, MongoDB, AWS, Docker, Kubernetes, TensorFlow, Ethereum | [Repo](https://github.com/honey9876/throne8) 🚀 |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📧 Email Application | A feature-rich email management app for sending, receiving, and organizing emails with real-time UI and optimized APIs. | React.js, Redux Toolkit, Axios, Tailwind CSS, React Router, Vite, React-Hot-Toast |
+| 📌 Booking Application | Secure MERN-stack booking system for services and schedules with JWT auth and responsive design. | Node.js, Express.js, React.js, MongoDB, Material-UI, JWT, REST API |
+| 🔗 Throne8 Platform | Core platform for AI-powered professional networking – AI-driven connections, blockchain trust, and scalable infrastructure. (Ongoing – Empowering education, careers & startups!) | Next.js, Node.js, MongoDB, AWS, Docker, Kubernetes, TensorFlow, Ethereum |
 
-*(Pro tip: Update repo links with your actual GitHub repos for these projects!)*
+*(Update with your GitHub repos as they go live! 🚀)*
 
 <h3 align="left">Experience & Education:</h3>
 <ul>
-  <li><strong>Co-Founder, Throne8</strong> (Feb 2025 – Present) | Leading AI & blockchain innovation in professional networking from Bhopal, India.</li>
+  <li><strong>Co-Founder, Throne8</strong> (Feb 2025 – Present) | Leading AI & blockchain innovation in professional networking from Bhopal, India. (11 months strong – Watch for 2026 disruptions!)</li>
   <li><strong>Engineering, Oriental Group of Institutes</strong> | Building foundations in tech and innovation.</li>
   <li><strong>Coding Bootcamp, Sheryians Coding School Bhopal</strong> | Mastered web dev essentials like HTML5, CSS, and beyond.</li>
+</ul>
+
+<h3 align="left">Recent Throne8 Highlights (Jan 2026):</h3>
+<ul>
+  <li>🎯 <strong>Mentorship Matters</strong>: Guiding career growth through real-world advice & polls on professional development.</li>
+  <li>🥳 <strong>New Year Vibes</strong>: Gearing up for innovation & opportunities in 2026!</li>
+  <li>💻 <strong>Dev Tips</strong>: Shared Git vs GitHub guide for beginners (Hindi).</li>
+  <li>🤝 <strong>Networking Power</strong>: 70-80% opportunities via connections – Build in public on Throne8 soon!</li>
+  <li>🚧 <strong>Career Blockers</strong>: Tackling clarity, focus & exposure for students & pros.</li>
 </ul>
 
 <h3 align="left">Skills Highlights:</h3>

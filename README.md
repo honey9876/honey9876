@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Honey%20Sharma&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=Co-Founder%20%40%20Throne8%20%7C%20AI-First%20Professional%20Networking&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
@@ -130,36 +130,7 @@
 
 </div>
 
-> **⚙️ Setup Snake Animation:**  
-> Create `.github/workflows/snake.yml` in your profile repo with the following:
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 ### 🏆 GitHub Trophies
 

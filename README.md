@@ -176,6 +176,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-=======
-
->>>>>>> 8aad567ae5700592a13a48aecf6618c42b3200b1

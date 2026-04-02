@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Honey%20Sharma&fontSize=60&fontColor=f5c842&fontAlignY=38&desc=Co-Founder%20%40%20Throne8%20%7C%20AI-First%20Professional%20Networking&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
@@ -204,3 +205,6 @@ jobs:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
+=======
+
+>>>>>>> 8aad567ae5700592a13a48aecf6618c42b3200b1
